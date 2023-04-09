@@ -1,0 +1,7 @@
+C:\Users\szila\source\repos\Schumacher\Schumacher\bin\Debug\Schumacher.exe.config
+C:\Users\szila\source\repos\Schumacher\Schumacher\bin\Debug\Schumacher.exe
+C:\Users\szila\source\repos\Schumacher\Schumacher\bin\Debug\Schumacher.pdb
+C:\Users\szila\source\repos\Schumacher\Schumacher\obj\Debug\Schumacher.csproj.AssemblyReference.cache
+C:\Users\szila\source\repos\Schumacher\Schumacher\obj\Debug\Schumacher.csproj.CoreCompileInputs.cache
+C:\Users\szila\source\repos\Schumacher\Schumacher\obj\Debug\Schumacher.exe
+C:\Users\szila\source\repos\Schumacher\Schumacher\obj\Debug\Schumacher.pdb
